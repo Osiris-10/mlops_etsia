@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Tests
+tests/
+.pytest_cache/
+.coverage
+
+# Documentation
+docs/
+*.md
+
+# Modèle GCN (ne pas inclure dans l'image)
+Modèle GCN/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
